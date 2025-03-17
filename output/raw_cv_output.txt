@@ -1,0 +1,135 @@
+Marwa HAFSI
+
+Ingénieure Machine Learning |Data Scientist | Robotique
+
+Ingénieure en Intelligence Artificielle spécialisée en développement et optimisation de
+modèles IA. Disponible dès mars 2025, à la recherche d’une nouvelle opportunité pour
+concevoir et intégrer des solutions IA robustes et performantes.
+
+Experience Professionnelle
+
+AnotherBrain - Paris , France
+Ingénieure IA/Machine Learning                                               Septembre 2023 - Fevrier 2025
+Startup spécialisée en conception d’une IA bio-inspirée frugale et explicable,
+alternative au perceptron.
+
+Développement IA & Optimisation:
+
+Conception d’une IA explicable et multimodale, optimisée pour être frugale en
+données et en énergie.
+Développement et expérimentation d’un pipeline d’objets à différentes échelles
+pour en extraire des caractéristiques pertinentes.
+Extraction et analyse de features spécifiques pour la classification et
+l’interprétation des données.
+
+Qualité logicielle & Automatisation
+
+Mise en place et maintenance de tests unitaires pour assurer la robustesse du
+code.
+Implémentation de workflows CI/CD sous GitLab pour automatiser les processus
+de développement.
+
+Encadrement & Gestion de projet
+
+Encadrement de stagiaires : définition des sujets, suivi et revue de code.
+Animation de réunions d’avancement (interne/externe) et reporting stratégique.
+Coordination avec des équipes pluridisciplinaires et partenaires (CIR, forums phd).
+Contribution à la définition de la stratégie R&D de l’entreprise et documentation
+des processus.
+
+🛠 Technologies utilisées : Python, PyTorch, Docker, CI/CD (GitLab), OpenCV, NumPy,
+Matplotlib, Pandas, SQL, Poetry, PySide 
+
+Manufacturing Technology Centre (MTC) - Cranfield, Royaume Uni 
+Étudiante en R&D - PFE                                                                 Avril 2023 - Septembre 2023
+Centre de recherche en technologies de fabrication avancées (Manufacturing).
+
+Évaluation et benchmarking de bibliothèques de suivi du squelette humain en temps
+réel  selon des critères prédéfinis (précision, temps de traitement , fiabilité):
+
+Basé sur PyTorch : AlphaPose, DensePose
+Basé sur TensorFlow : PoseNet, tf-pose-estimation
+Autres Frameworks : MediaPipe, OpenPose, BlazePose    
+
+Digital Aviation Research and Technology Centre (DARTeC) - Cranfield, Royaume-Uni
+Cheffe de projet - Étudiante en recherche                                               Mars 2023 - Mai 2023
+Centre de recherche en aviation numérique, spécialisé dans l’intégration des systèmes
+autonomes. 
+
+Modélisation 3D d’un hangar et d’un avion et simulation dans Gazebo
+(environnement de simulation pour la robotique).
+Cartographie automatique de l’environnement avec des algorithmes SLAM
+(Simultaneous Localization and Mapping, technique permettant aux robots de se
+repérer).
+Localisation et navigation d’un robot en fusionnant les données de plusieurs
+capteurs via ROS (Robot Operating System, framework pour la robotique).
+
+Compétences techniques 
+
+Langages de programmation : Python, SQL, Java , C
+DevOps  & Outils : Git, Docker, CI/CD, Poetry, FastAPI
+Machine Learning & Deep Learning : PyTorch, TensorFlow, scikit-learn , Modélisation et
+optimisation d'algorithmes IA 
+ Analyse & Visualisation : NumPy, Pandas, Matplotlib, Seaborn
+Robotique & Vision : ROS , Gazebo, ORB-SLAM , Microsoft Kinect SDK, LiDAR, IMU
+
+Contact
+
+marwa.hafsi.2011@gmail.com
+
+https://www.linkedin.com/in/marwa-
+hafsi
+
++33 7 44 75 45 36
+
+Île-de-France
+
+Formation
+
+MSc Robotique, Université de Cranfield,
+Cranfield, Royaume-Uni
+Octobre 2022 - Octobre 2023
+
+MSc Ingénierie de l'Industrie et des
+Services, Mines de Douai, Douai, France 
+Septembre 2021 - Octobre 2022
+
+Compétences
+
+Soft 
+skills: 
+Gestion 
+de 
+projet,
+encadrement, 
+rigueur, 
+autonomie,
+esprit 
+analytique, 
+résolution 
+de
+problèmes, vulgarisation technique
+
+Certifications: 
+Deep 
+Learning 
+Specialization
+
+(Coursera)  -  2025
+AWS 
+Certified 
+Cloud 
+Practitioner
+(2025 - en cours)
+
+Langues 
+
+Anglais (Courant)
+Français (Langue maternelle)
+Arabe (Langue maternelle)
+
+Centres d'intérêts 
+
+Loisirs & Sports: Zumba , Volleyball
+Centres d'intérêts: Voyages
+
